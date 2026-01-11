@@ -13,6 +13,7 @@ echo(
 echo Welcome to the Dungeon Crawl!
 echo You have %HP% health points.
 echo To play, use commands like 'dir' (look), 'type' (read), and 'cd' (move).
+echo To open your inventory, use 'call %%OpenInventory%%'
 echo Your first room is 'entrance'.
 echo Type: cd entrance
 echo(
